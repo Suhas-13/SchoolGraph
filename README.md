@@ -1,6 +1,6 @@
 # SchoolGraph
 
-A project to scrape available student/course data from Schoology(a web-based platform used by schools to manage courses/students) and generate a graph with. 
+A project to scrape available student/course data from Schoology (a web-based platform used by schools to manage courses/students) and generate a graph for shortest path identification.
 
 Use Cases:
 - Contact tracing, get a quick list of students who might've associated with another student in a school day(based on classes in common)
